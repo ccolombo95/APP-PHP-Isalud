@@ -1,10 +1,10 @@
 
 <?php
 
-$host = "localhost";
-$user = "root";
-$pass = "ccolombo";
-$db_name = "observatorioisalud";
+$host = "";
+$user = "";
+$pass = "";
+$db_name = "";
 
 try {
     global $conn;
